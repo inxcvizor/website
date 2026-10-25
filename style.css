@@ -1,0 +1,74 @@
+body {
+    background-color:black;
+    width:auto;
+    height:100vh;
+    display:flex;
+}
+.d {
+    background-color:#070710;
+    width:100%;
+    margin-right:100px;
+    margin-left:100px;
+    border:2px solid lightblue;
+    padding-right:10px;
+    padding-left:10px;
+}
+nav {
+    display:flex;
+    font-family:sans-serif;
+}
+a.i:link {background-color:#f00;color:white;width:20%;text-decoration:none;text-align:center;}
+a.i:hover {background-color:#900;color:white;width:20%;text-decoration:none;text-align:center;}
+a.i:visited {background-color:#f00;color:white;width:20%;text-decoration:none;text-align:center;}
+
+a.ii:link {background-color:#fa0;color:black;width:20%;text-decoration:none;text-align:center;}
+a.ii:hover {background-color:#d92;color:black;width:20%;text-decoration:none;text-align:center;}
+a.ii:visited {background-color:#fa0;color:black;width:20%;text-decoration:none;text-align:center;}
+
+a.iii:link {background-color:#ff0;color:black;width:20%;text-decoration:none;text-align:center;}
+a.iii:hover {background-color:#dd0;color:black;width:20%;text-decoration:none;text-align:center;}
+a.iii:visited {background-color:#ff0;color:black;width:20%;text-decoration:none;text-align:center;}
+
+a.iv:link {background-color:#0f0;color:black;width:20%;text-decoration:none;text-align:center;}
+a.iv:hover {background-color:#0d0;color:black;width:20%;text-decoration:none;text-align:center;}
+a.iv:visited {background-color:#0f0;color:black;width:20%;text-decoration:none;text-align:center;}
+
+a.v:link {background-color:#00f;color:white;width:20%;text-decoration:none;text-align:center;}
+a.v:hover {background-color:#00d;color:white;width:20%;text-decoration:none;text-align:center;}
+a.v:visited {background-color:#00f;color:white;width:20%;text-decoration:none;text-align:center;}
+p {
+    color:#ddd19a;
+    font-family:sans-serif;
+}
+article {
+    color:#ddd19a;
+    font-family:sans-serif;
+}
+section {
+    color:#ddd19a;
+    font-family:sans-serif;
+}
+ul {
+    color:#ddd19a;
+    font-family:sans-serif;
+}
+.ms {
+    color:#abffff;
+    font-family:monospace;
+}
+.h {
+    color:white;
+    font-family:serif;
+    text-align:center;
+}
+.l {
+    color:#abffff;
+    font-family:sans-serif;
+}
+table {
+    color:#ffffff;
+    font-family:monospace;
+}
+footer {
+    color:red;
+}
